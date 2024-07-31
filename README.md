@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Penitant (Prithvi Hegde)
-- 👀 I’m interested in Majoring Computer Science and working in that industry (Full Stack)
+- 👀 I’m interested Computer Science and working in the industry (Full Stack)
 - 🌱 I’m currently refreshing my fundamentals, with CS50x. Will be moving on to The Odin Project before the start of my undergrad.
 - 💞️ I’m looking to collaborate on ANYTHING. I want to learn and learn and learn and learn. I wish to be at the top of the game bfr the end of my undergrad.
 - 📫 How to reach me prithvi.npg@gmail.com

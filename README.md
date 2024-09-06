@@ -1,8 +1,5 @@
-[![MasterHead](https://tenor.com/view/banner-welcome-gif-22391159)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Prithvi Hegde</h1>
 <h3 align="center">I love coding, and there's nothin'more satisfying than learning something new everyday.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/r/Cyberpunk/comments/17orhba/coding_by_pixel_jeff/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penitant&label=Profile%20views&color=0e75b6&style=flat" alt="penitant" /> </p>
 

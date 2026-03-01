@@ -55,10 +55,6 @@ Currently focused on AI, data-driven applications, and scalable software develop
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penitant&layout=compact" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=penitant&show_icons=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=penitant" />
 
 ---

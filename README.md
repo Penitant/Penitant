@@ -5,10 +5,6 @@ Currently focused on AI, data-driven applications, and scalable software develop
 
 <img src="https://komarev.com/ghpvc/?username=penitant&label=Profile%20views&color=0e75b6&style=flat" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=penitant&margin-w=10" />
-</a>
-
 ---
 
 ## 🚀 What I'm Working On

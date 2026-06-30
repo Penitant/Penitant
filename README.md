@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/600x200.jpg" width="100%"/>
+  <img src="assets/images/linkedinBannerPrithvi.png" width="100%"/>
 </p>
 
 <br/><br/>

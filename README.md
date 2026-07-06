@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/linkedinBannerPrithvi.png" width="100%"/>
+  <img src="assets/images/gitlinBannerPrithvi.png" width="100%"/>
 </p>
 
 <br/><br/>

@@ -1,39 +1,39 @@
-```console
+```
 penitant@arch:~$ fastfetch
-*#%#%#%%#%%%@%%%%%%%%%##%%%%%%%%%%%%%%%%-::::::::
-#%%%%%%%##%%#####%%#%##%#%%##%%%%%%%%%%@%-:::::::
-%%%###*+++*###*##*##%###%%#%%%%#%%%%%*%%%#:::::::
-%%%#+=====++=+++===+++++*****#%%%%%%@%%#%%:::::::   prithvi@penitant
-%%%#+=---===+======++===++++**#%%%%%@%%%%%=::::::   ----------------
-##%#==---==-===========+++*****#%%@@@%%%%%*::::::   OS: Arch Linux x86_64
-*##*===--===--=--===+*#%%####*###@@@@@%@%%=::::::   Role: Computer Science Student
-%###+--**####*+++++***##%++*##***##@%%@@@%#::::::   Focus: Machine Learning / Systems Programming
-*#%#=+*==++*****=-=+##%%%#-#**##***#%@%%%@#::::::   Under The Hood: low-level design -> AI arch
-%###=-=*+%#.=**+===+*******++++++***%%@%##---::::   Editor: nvim
-%%#%==+=-==+++=====+**#*+======++***#%#*#*-----::   Shell: fish
-###%=-=-======+=---=+*++**+====+****##*#+*=------   Environment: Linux, developer tooling
-++##-------=+*--+==*%####*+++++***#*#%%**#-------   Projects: scalable, practical engineering
-++-+==---==+*+==*+****#*##%###***#*##%##**-------   Ethos: theory bridged with real-world impact
-.+-+*====+*#*+*+====****#####*+***###%**=--------   Community: collaboration, talks, learning
-..++++=+=+++*+=++%*++++*##**++***###%--==--------   Beyond Code: volunteering, social causes
-..:+++++++=++*===---=+++**********#%%+-===-------   Uptime: penance ongoing
-....::++++===+=-=+*##**+++*****###%##.-===-------
-......:+=+++====--==++*+++**###*#%#%#.-===-------   Contact: prithvih.workwithme@gmail.com
-.......=++*++=+==+====****#####%%%%##.:===-------   LinkedIn: /in/prithvi-hegde-24b3b430b
-........+*++++++=++*++**#*##%#%%%%###.:===-------
-.......:=+***+**+++***###%%%%%@%%####.:===-------   ███  ███  ███  ███  ███  ███
-.....*##===++*#*####%#%%%%%@%%#######:.===-------
-.....*#%+===+=+***####%#%#######***##%%----------
-...***##%+==-===+++++****#********####%%=--------
-.****####%#++*====+++++***********###%%@%%%%%%--:
-%###########%**+++==+=+==+=+++***####%%%%%%%%#%%%
-%%############%#*++++*++++++*+***###%#%%%%%%%#%%%
-%%#%#############%%#%%%*#*++*++***##%@@@@@@@@@@%%
-%####%%%%%%###%@%%#:::%%%%***+***%@@@@%%%%@%%%%%%
-#####%%%%%%%#######%#%%%%%%%#**%@@@@%%%%%%%%%%%%%
-#####%%%%%###%%####%%%%%%%%%%%@%@@%%%%%%%%%%%%%%%
-######%##%##%%%#####%%%%%%%%%#@%%%%%%%%%%%%%%%%%%
+```
 
+<table>
+<tr>
+<td width="240" valign="top">
+<img src="assets/images/ascii-art-normal.png" width="220"/>
+</td>
+<td valign="top">
+
+```
+prithvi@penitant
+----------------
+OS: Arch Linux x86_64
+Role: Computer Science Student
+Focus: Machine Learning / Systems Programming
+Under The Hood: low-level design -> AI arch
+Editor: nvim
+Shell: fish
+Environment: Linux, developer tooling
+Projects: scalable, practical engineering
+Ethos: theory bridged with real-world impact
+Community: collaboration, talks, learning
+Beyond Code: volunteering, social causes
+Uptime: penance ongoing
+
+Contact: prithvih.workwithme@gmail.com
+LinkedIn: /in/prithvi-hegde-24b3b430b
+```
+
+</td>
+</tr>
+</table>
+
+```
 penitant@arch:~$ nvim ~/notes/motives.md
 
    1 │ # what the fetch leaves out

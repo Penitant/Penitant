@@ -1,4 +1,4 @@
-```
+```console
 penitant@arch:~$ fastfetch
 ```
 
@@ -33,7 +33,7 @@ LinkedIn: /in/prithvi-hegde-24b3b430b
 </tr>
 </table>
 
-```
+```console
 penitant@arch:~$ nvim ~/notes/motives.md
 
    1 │ # what the fetch leaves out
